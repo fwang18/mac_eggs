@@ -1,0 +1,24 @@
+# # # # # # #
+#eggs in mac#
+# # # # # # #
+
+# movie of today: STAR WAR
+telnet towel.blinkenlights.nl  
+
+# train
+brew install sl
+sl
+
+# mac games
+emacs
+#esc+x
+tetris # snake # pong # gomoku # all in /usr/share/emacs/*/lisp/play
+
+# cook
+open /usr/share/emacs/22.1/etc/COOKIES
+
+# cow says ...
+brew install cowsay
+brew install fortune
+#fortune | cowsay
+echo "i am so sorry" | cowsay
